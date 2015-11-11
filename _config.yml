@@ -1,10 +1,10 @@
 # Site settings
 title: The Azeroth Free Press
 header-img: img/home-bg.jpg
-email: euanfjackson@gmail.com
+email: editor@azeroth.press
 description: "An independent press reporting from Argent Dawn EU"
 baseurl: ""
-url: "http://csable.github.io"
+url: "http://azeroth.press"
 
 # Build settings
 markdown: kramdown
