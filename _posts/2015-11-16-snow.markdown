@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Sanguine Snow"
-subtitle:   "From Apostle to Apostate"
+subtitle:   "Friends and Comrades"
 date:       2015-11-16 19:00:00
 author:     "Hileah Bennet"
 header-img: "img/post-bg-01.jpg"
